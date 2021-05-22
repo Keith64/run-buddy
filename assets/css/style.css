@@ -67,3 +67,11 @@ header {
       padding: 0;
       box-sizing: border-box;
   }
+  section {
+    padding: 60px;
+    background-image: url("../images/hero-bg.jpg");
+  }
+  .hero {
+    background-image: url("../images/hero-bg.jpg");
+    height: 600px;
+  }
